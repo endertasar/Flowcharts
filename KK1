@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T11:57:36.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-pl7ERQ6_m6g9F9JHRua" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T06:36:24.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-vNSQAk27zTJ9rUWCWvh" version="21.1.5" type="github">
   <diagram name="Sayfa -1" id="l6uRx4SjEmSALs3js1gd">
-    <mxGraphModel dx="1050" dy="581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O1O0uq8KwPHqfbLHWDPI-2" value="Login Api" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="121" y="183" width="120" height="60" as="geometry" />
+        <mxCell id="O1O0uq8KwPHqfbLHWDPI-2" value="API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="100" y="157" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O1O0uq8KwPHqfbLHWDPI-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="334" y="115" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WIRjT4avW5CavyrVgnt7-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" target="O1O0uq8KwPHqfbLHWDPI-3">
+        <mxCell id="WIRjT4avW5CavyrVgnt7-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" target="O1O0uq8KwPHqfbLHWDPI-3" edge="1" source="O1O0uq8KwPHqfbLHWDPI-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="241" y="211" as="sourcePoint" />
             <mxPoint x="291" y="161" as="targetPoint" />
